@@ -6,3 +6,6 @@ the coding of cost sensitive variational autoencoding classifier
 * Tensorflow 2.0.0-alpha0
 * Keras 2.3.0
 <br>
+
+## Run
+exp1.py
